@@ -8,6 +8,12 @@ In addition to my schoolwork, I've done work in the fields of Hyrdographic Resea
 
 --
 
+My current personal project is far in a way the biggest I've ever undertaken. I am working on a video game codenamed "Project Revenant". The details are not yet public for that, but I hope to make public announcements for that game in the next few months. 
+
+I should mention that, if you've happened upon this page for whatever reason, I'm looking for an artist (preferably one with experience in pixel art and animation) to collaborate on that game with me. If you're interested in that, please contact me (info at the bottom of this bio). I cannot pay you up-front, as I am a lowly student, but you will be considered and equal part of the dev team should that amount to anything.
+
+--
+
 If you have any questions for me for whatever reason, you can reach me at my email or my discord:
 
 Email: munchuck1332@gmail.com
